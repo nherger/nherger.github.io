@@ -3,12 +3,12 @@ title: Nadja Herger
 url: "http://nherger.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 description: >
-  This is Nadja Herger's personal blog.
+  Nadja Herger's personal blog.
 
 # Your information
 email: hergernadja@gmail.com
 author: Nadja Herger
-avatar: "https://github.com/nherger/blog/blob/gh-pages/photos/portrait.jpg?raw=true"  #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "https://github.com/nherger/nherger.github.io/blob/master/photos/portrait.jpg?raw=true"  #"//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: Welcome to my site! I hope you find something interesting here.
 #twitter_username: twitter_username
 #github_username:  github_username
