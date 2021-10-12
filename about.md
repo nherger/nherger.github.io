@@ -15,4 +15,4 @@ Most of my time was spent analysing and visualising large complex, multi-dimensi
 
 In my spare time I enjoy spending time with my dog, [photography](https://500px.com/nadja_herger), hiking, and sewing.
 
-You can find my CV <a href="https://www.dropbox.com/s/8f32bib8vxxlp2x/NadjaHerger_CV.pdf?dl=0" target="_blank">here</a>.
+You can find my CV <a href="https://github.com/nherger/nherger.github.io/blob/master/documents/NadjaHerger_CV.pdf" target="_blank">here</a>.
