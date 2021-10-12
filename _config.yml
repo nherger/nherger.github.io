@@ -16,7 +16,7 @@ profile_links:
   Email: "mailto:hergernadja@gmail.com"
   GitHub: "https://github.com/nherger"
   LinkedIn: "https://www.linkedin.com/in/nadja-herger"
-  CV: "documents/NadjaHerger_CV.pdf"
+  CV: "../documents/NadjaHerger_CV.pdf"
   # You can add more profile links above, or edit _includes/sidebar.html
 
 # Comment Service (Disqus or 多说)
