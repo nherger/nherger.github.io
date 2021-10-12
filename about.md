@@ -13,4 +13,4 @@ I have led and co-authored a range of peer-reviewed articles which are published
 
 In my spare time I enjoy spending time with my dog, [photography](https://500px.com/nadja_herger), hiking, and sewing.
 
-You can find my CV <a href="/documents/NadjaHerger_CV.pdf" class="image fit" target="_blank">here</a>.
+You can find my CV <a href="../documents/NadjaHerger_CV.pdf" class="image fit" target="_blank">here</a>.
