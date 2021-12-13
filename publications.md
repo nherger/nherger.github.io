@@ -7,7 +7,7 @@ nocomments: true
 
 Here is a list of peer-reviewed scientific publications I lead or contributed to:
 ### 2021
-* Skylaki S., Oskooei, A., Bari, O., **Herger, N.**, and Kriegman Z. (2021). Legal Entity Extraction using a Pointer Generator Network. *MLLD2021*. [[Preprint]](https://arxiv.org/pdf/2012.09936.pdf)
+* Skylaki, S., Oskooei, A., Bari, O., **Herger, N.**, and Kriegman, Z. (2021). Legal Entity Extraction using a Pointer Generator Network. *MLLD2021*. [[Preprint]](https://arxiv.org/pdf/2012.09936.pdf)
 * Norkute, M., **Herger, N.**, Michalak, L., Mulder, A., and Gao, S. (2021). [Towards Explainable AI: Assessing the Usefulness and Impact of Added Explainability Features in Legal Document Summarization](https://dl.acm.org/doi/10.1145/3411763.3443441). In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems, *CHI EA ’21*, New York, NY, USA. Association for Computing Machinery. [[Preprint]](https://mildanor.github.io/assets/NorkuteXAI.pdf)
 
 ### 2019
