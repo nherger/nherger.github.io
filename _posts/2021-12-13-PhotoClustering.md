@@ -4,7 +4,7 @@ title:  "Photo Clustering"
 date:   2021-12-13 08:00
 categories: jekyll
 permalink: /posts/photoclustering
-image: "https://github.com/nherger/nherger.github.io/blob/master/photos/PhotoCluster_banner.JPG?raw=true"
+image: "https://github.com/nherger/nherger.github.io/blob/master/photos/PhotoCluster_banner.png?raw=true"
 ---
 
 How can my passions for photography and data science be combined? By using a pre-trained Deep Learning model to cluster hundreds of photos of course!
