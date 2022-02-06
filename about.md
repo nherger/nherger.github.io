@@ -5,7 +5,9 @@ permalink: /about/
 nocomments: true
 ---
 
-I am a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html), based in Switzerland. My expertise is in Natural Language Processing and human-centric AI. I'm passionate about the use of technology for social good and AI Ethics (incl. fairness, and Explainable AI).
+I am a Data and Model Ethics Manager at Thomson Reuters, based in Switzerland. In this role, I am supporting the organisation on its journey to become a leader in the ethical use of data and models (incl. AI). This includes topics such as fairness/bias, Explainable AI, and privacy.
+
+Before taking on the manager role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
 
 I completed both my Bachelor’s and Master’s degrees at ETH Zürich in Environmental Sciences, specialising in Climate Science. I then moved to Sydney, Australia, to pursue a PhD degree at UNSW in Climate Science at the [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/ccrc-team/students/nadja-herger).
 
