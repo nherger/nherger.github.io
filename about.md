@@ -5,7 +5,7 @@ permalink: /about/
 nocomments: true
 ---
 
-I am a Data and Model Ethics Manager at Thomson Reuters, based in Switzerland. In this role, I am supporting the organisation on its journey to become a leader in the ethical use of data and models (incl. AI). This includes topics such as fairness/bias, Explainable AI, and privacy.
+I am a Manager, Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am supporting the organisation on its journey to become a leader in the design, development, and deployment of trustworthy AI/ML solutions. This includes topics such as model identification, documentation, risk assessment, monitoring, and AI Ethics.
 
 Before taking on the manager role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
 
