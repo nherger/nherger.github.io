@@ -5,9 +5,9 @@ permalink: /about/
 nocomments: true
 ---
 
-I am a Manager, Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am supporting the organisation on its journey to become a leader in the design, development, and deployment of trustworthy AI/ML solutions. This includes topics such as model identification, documentation, risk assessment, monitoring, and AI Ethics.
+I am a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am leading a globally-distributed, talented group of individuals. We oversee all AI/ML solutions developed across the organisation, and are supporting model developing and consuming teams with the responsible development and use of this technology. This includes topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
 
-Before taking on the manager role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
+Before taking on a managerial role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
 
 I completed both my Bachelor’s and Master’s degrees at ETH Zürich in Environmental Sciences, specialising in Climate Science. I then moved to Sydney, Australia, to pursue a PhD degree at UNSW in Climate Science at the [Climate Change Research Centre](http://www.ccrc.unsw.edu.au/ccrc-team/students/nadja-herger).
 
