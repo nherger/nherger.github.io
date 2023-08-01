@@ -7,7 +7,7 @@ permalink: /posts/crash-course
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/CrashCourse_banner.jpg?raw=true"
 ---
 
-My partner Oliver Angélil and I created a Python crash course for climate scientists.
+Oliver Angélil and I created a Python crash course for climate scientists.
 
 <!--more-->
 
