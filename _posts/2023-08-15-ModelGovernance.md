@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons learned in AI Governance"
-date:   2023-08-02 08:00
+date:   2023-08-15 08:00
 categories: jekyll
 permalink: /posts/responsibleai
 image: "https://github.com/nherger/nherger.github.io/blob/master/photos/ResponsibleAI_banner.jpg?raw=true"
