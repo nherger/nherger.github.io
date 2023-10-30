@@ -5,7 +5,7 @@ permalink: /about/
 nocomments: true
 ---
 
-I am a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am leading a globally-distributed, talented group of individuals. We oversee all AI/ML solutions developed across the organisation, and are supporting model developing and consuming teams with the responsible development and use of this technology. This includes topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
+I am a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am leading a globally-distributed, talented group of individuals. We oversee all AI/ML-driven  solutions developed across the enterprise, and translate internal policies and standards into effective controls and scalable implementation practices. On a daily basis my team supports model developing and consuming teams with the responsible development and use of this technology. We cover topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
 
 Before taking on a managerial role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
 
@@ -16,3 +16,6 @@ I have led and co-authored a range of peer-reviewed articles which are published
 In my spare time I enjoy spending time with my dog, [photography](https://500px.com/nadja_herger), hiking, and sewing.
 
 You can find my CV <a href="../documents/NadjaHerger_CV.pdf" class="image fit" target="_blank">here</a>.
+
+
+
