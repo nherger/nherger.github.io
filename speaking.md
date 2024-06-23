@@ -8,7 +8,7 @@ nocomments: true
 I had the pleasure to present at various academic and industry conferences, events and meetups. The list below does not cover internal presentations.
 
 ### 2024
-* [Data and AI Leadership Day](https://dataaileadershipday.com/speakers/nadja-herger/); **Nadja Herger**, Nina Hristozova; *Responsible AI in Practice*; 19. June 2024; Zurich, Switzerland; [[slides]](https://github.com/nherger/nherger.github.io/blob/master/documents/RAI in Practice - AI Leadership Day.pdf).
+* [Data and AI Leadership Day](https://dataaileadershipday.com/speakers/nadja-herger/); **Nadja Herger** and Nina Koteva; *Responsible AI in Practice*; 19. June 2024; Zurich, Switzerland; [[slides]](https://github.com/nherger/nherger.github.io/blob/master/documents/RAI in Practice - AI Leadership Day.pdf).
 
 ### 2021
 * [deploy(impact) by women++](https://www.meetup.com/womenplusplus); Danilo Tommasina, **Nadja Herger**, Urmi Ghosh, Andreea Iuga; *Career Journeys in Tech - why diversity matters*; 15. September 2021; Virtual; [[event]](https://www.meetup.com/womenplusplus/events/280315547/); [[article incl. recording]](https://medium.com/womenplusplus/career-journeys-in-tech-a-women-webinar-6ef4da1d85de).
