@@ -5,7 +5,9 @@ permalink: /about/
 nocomments: true
 ---
 
-I am a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I am leading a globally-distributed, talented group of individuals. We oversee all AI/ML-driven  solutions developed across the enterprise, and translate internal policies and standards into effective controls and scalable implementation practices. On a daily basis my team supports model developing and consuming teams with the responsible development and use of this technology. We cover topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
+I am an Adoption Manager for Data and Analytics within Axpo [Trading & Sales](https://www.axpo.com/group/en/business-areas/energy-trading-and-sales.html). 
+
+Before joining Axpo I was a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I was leading a globally-distributed, talented group of individuals. We oversaw all AI/ML-driven  solutions developed across the enterprise, and translated internal policies and standards into effective controls and scalable implementation practices. On a daily basis my team supported model developing and consuming teams with the responsible development and use of this technology. We covered topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
 
 Before taking on a managerial role, I was a Senior Data Scientist at [Thomson Reuters Labs](https://innovation.thomsonreuters.com/en/labs.html). My work was mainly related to Natural Language Processing and human-centric AI.
 
