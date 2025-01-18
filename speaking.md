@@ -7,6 +7,9 @@ nocomments: true
 
 I had the pleasure to present at various academic and industry conferences, events and meetups. The list below does not cover internal presentations.
 
+### 2025
+* [Energy Trading Day @ Capgemini](https://go.capgeminigroup.com/energy_trading_day); **Nadja Herger**; *Creating an actionable Data Strategy*; 16. January 2025; Cologne, Germany.
+
 ### 2024
 * [Data and AI Leadership Day](https://dataaileadershipday.com/speakers/nadja-herger/); **Nadja Herger** and Nina Koteva; *Responsible AI in Practice*; 19. June 2024; Zurich, Switzerland; [[slides]](https://github.com/nherger/nherger.github.io/blob/master/documents/RAI in Practice - AI Leadership Day.pdf).
 
