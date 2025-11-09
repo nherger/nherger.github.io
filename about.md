@@ -5,7 +5,7 @@ permalink: /about/
 nocomments: true
 ---
 
-I am an Adoption Manager for Data and Analytics within [Axpo Trading & Sales](https://www.axpo.com/group/en/business-areas/energy-trading-and-sales.html). 
+I am an Adoption Manager for Data and Analytics within [Axpo Trading & Sales](https://www.axpo.com/group/en/business-areas/energy-trading-and-sales.html). I lead the thriving data & analytics community, consisting of over 300 members from 15+ countries, support the adoption of a novel data & analytics platform, and contribute to the company's data literacy program.
 
 Before joining Axpo I was a Director of Model Stewardship at Thomson Reuters, based in Switzerland. In this role, I was leading a globally-distributed, talented group of individuals. We oversaw all AI/ML-driven  solutions developed across the enterprise, and translated internal policies and standards into effective controls and scalable implementation practices. On a daily basis my team supported model developing and consuming teams with the responsible development and use of this technology. We covered topics such as model registration, documentation, risk assessment, monitoring, and ethics-related controls.
 
